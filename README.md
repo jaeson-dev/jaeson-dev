@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently learning Swift for being iOS developer
 
 <!--
 **jaeson-dev/jaeson-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
